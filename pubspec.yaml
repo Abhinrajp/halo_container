@@ -1,7 +1,8 @@
 name: halo_container
 description: "A containers with gradient borders and transparent backgrounds for Flutter apps."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Abhinrajp/halo_container
+repository: https://github.com/Abhinrajp/halo_container
 
 environment:
   sdk: ^3.9.2
